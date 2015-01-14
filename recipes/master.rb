@@ -1,6 +1,6 @@
 # Author:: Ross Smith (<rjsm@umich.edu>)
 # Cookbook Name:: caen-infra
-# Recipe:: minion
+# Recipe:: salt-master
 #
 # Apache 2.0
 #

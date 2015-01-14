@@ -1,4 +1,4 @@
-name 'chef-salt'
+name 'caen-infra'
 maintainer 'Ross Smith'
 maintainer_email 'rjsm@umich.edu'
 license 'Apache 2.0'
